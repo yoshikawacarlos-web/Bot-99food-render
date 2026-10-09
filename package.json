@@ -1,0 +1,17 @@
+{
+  "name": "bot-99food-render",
+  "version": "2.0.0-oia-corrigido",
+  "description": "Bot 99Food - Migracao Render - Link OIA corrigido https://oia.99app.com/dlp9/6Xujxo - Sem trava 14 dias",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
