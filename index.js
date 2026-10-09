@@ -1,3 +1,5 @@
+globalThis.crypto = require('crypto');
+ 
 const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys')
 const express = require('express')
 const app = express()
